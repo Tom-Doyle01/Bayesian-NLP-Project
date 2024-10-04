@@ -1,1 +1,1 @@
-# Bayesian-NLP-Project
+This project was completed for my Modeling Minds, Brains, and Behavior class, We learned how to do natural language processing with supervised learning, so I applied Bayesian learning to natural language processing. I trained the neural network on a dataset of IMDB reviews and saw how well the model generalized to a dataset of Reuters headlines.Attached is the 
